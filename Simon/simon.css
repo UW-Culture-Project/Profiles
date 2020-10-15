@@ -6,3 +6,7 @@ body {
     color: white;
     text-align: center;
 }
+
+.color-button {
+    width: 200px;
+}
