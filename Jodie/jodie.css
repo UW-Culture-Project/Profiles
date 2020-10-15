@@ -1,0 +1,14 @@
+html{
+    background-color: aquamarine;
+}
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
+h1:hover{
+    background-color: rgb(147, 121, 172);
+}
