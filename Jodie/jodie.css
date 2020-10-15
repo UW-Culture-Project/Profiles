@@ -1,5 +1,8 @@
 html{
-    background-color: aquamarine;
+    background-color: cornflowerblue
+}
+h1{
+
 }
 
 .center {
@@ -7,8 +10,15 @@ html{
         margin-left: auto;
         margin-right: auto;
         width: 50%;
+        padding: 1.5%;
+        background-color: cornflowerblue;
       }
-
-h1:hover{
-    background-color: rgb(147, 121, 172);
+.center:hover{
+    background-color: rgb(233, 143, 91);
 }
+p{
+   text-align: center;
+   min-width: 117px; 
+   position:relative; 
+}
+
