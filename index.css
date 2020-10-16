@@ -13,6 +13,10 @@
   border-radius: 15px;
 }
 
+.shadowTextBtn {
+  text-shadow: 2px 2px #09186d;
+}
+
 #kennysBtn {
   background-color: lightcoral;
 }
