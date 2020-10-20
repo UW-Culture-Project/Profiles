@@ -1,0 +1,12 @@
+body {
+    background-color: gray;
+}
+
+.page-title {
+    color: white;
+    text-align: center;
+}
+
+.color-button {
+    width: 200px;
+}
