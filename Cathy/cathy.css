@@ -1,0 +1,18 @@
+.centerHeader {
+    text-align: center;
+  }
+  
+  #profilesHeader {
+    color: blue;
+    margin-bottom: 50px;
+  }
+  
+  .profileBtn {
+    padding: 15px;
+    margin: 30px;
+    border-radius: 15px;
+  }
+  
+  #kennysBtn {
+    background-color: lightcoral;
+  }
