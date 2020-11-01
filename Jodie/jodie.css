@@ -1,0 +1,24 @@
+html{
+    background-color: cornflowerblue
+}
+h1{
+
+}
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        padding: 1.5%;
+        background-color: cornflowerblue;
+      }
+.center:hover{
+    background-color: rgb(233, 143, 91);
+}
+p{
+   text-align: center;
+   min-width: 117px; 
+   position:relative; 
+}
+
